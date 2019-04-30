@@ -1,0 +1,11 @@
+/home/runderwood/Documents/ws3/ChapterTwo/PrepPartFive/bin/Debug/netcoreapp2.2/PrepPartFive.deps.json
+/home/runderwood/Documents/ws3/ChapterTwo/PrepPartFive/bin/Debug/netcoreapp2.2/PrepPartFive.runtimeconfig.json
+/home/runderwood/Documents/ws3/ChapterTwo/PrepPartFive/bin/Debug/netcoreapp2.2/PrepPartFive.runtimeconfig.dev.json
+/home/runderwood/Documents/ws3/ChapterTwo/PrepPartFive/bin/Debug/netcoreapp2.2/PrepPartFive.dll
+/home/runderwood/Documents/ws3/ChapterTwo/PrepPartFive/bin/Debug/netcoreapp2.2/PrepPartFive.pdb
+/home/runderwood/Documents/ws3/ChapterTwo/PrepPartFive/obj/Debug/netcoreapp2.2/PrepPartFive.csprojAssemblyReference.cache
+/home/runderwood/Documents/ws3/ChapterTwo/PrepPartFive/obj/Debug/netcoreapp2.2/PrepPartFive.csproj.CoreCompileInputs.cache
+/home/runderwood/Documents/ws3/ChapterTwo/PrepPartFive/obj/Debug/netcoreapp2.2/PrepPartFive.AssemblyInfoInputs.cache
+/home/runderwood/Documents/ws3/ChapterTwo/PrepPartFive/obj/Debug/netcoreapp2.2/PrepPartFive.AssemblyInfo.cs
+/home/runderwood/Documents/ws3/ChapterTwo/PrepPartFive/obj/Debug/netcoreapp2.2/PrepPartFive.dll
+/home/runderwood/Documents/ws3/ChapterTwo/PrepPartFive/obj/Debug/netcoreapp2.2/PrepPartFive.pdb

@@ -1,0 +1,11 @@
+/home/runderwood/Documents/ws3/ChapterTwo/PrepPartThree/bin/Debug/netcoreapp2.2/PrepPartThree.deps.json
+/home/runderwood/Documents/ws3/ChapterTwo/PrepPartThree/bin/Debug/netcoreapp2.2/PrepPartThree.runtimeconfig.json
+/home/runderwood/Documents/ws3/ChapterTwo/PrepPartThree/bin/Debug/netcoreapp2.2/PrepPartThree.runtimeconfig.dev.json
+/home/runderwood/Documents/ws3/ChapterTwo/PrepPartThree/bin/Debug/netcoreapp2.2/PrepPartThree.dll
+/home/runderwood/Documents/ws3/ChapterTwo/PrepPartThree/bin/Debug/netcoreapp2.2/PrepPartThree.pdb
+/home/runderwood/Documents/ws3/ChapterTwo/PrepPartThree/obj/Debug/netcoreapp2.2/PrepPartThree.csprojAssemblyReference.cache
+/home/runderwood/Documents/ws3/ChapterTwo/PrepPartThree/obj/Debug/netcoreapp2.2/PrepPartThree.csproj.CoreCompileInputs.cache
+/home/runderwood/Documents/ws3/ChapterTwo/PrepPartThree/obj/Debug/netcoreapp2.2/PrepPartThree.AssemblyInfoInputs.cache
+/home/runderwood/Documents/ws3/ChapterTwo/PrepPartThree/obj/Debug/netcoreapp2.2/PrepPartThree.AssemblyInfo.cs
+/home/runderwood/Documents/ws3/ChapterTwo/PrepPartThree/obj/Debug/netcoreapp2.2/PrepPartThree.dll
+/home/runderwood/Documents/ws3/ChapterTwo/PrepPartThree/obj/Debug/netcoreapp2.2/PrepPartThree.pdb
